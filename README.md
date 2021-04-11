@@ -14,6 +14,6 @@ skimage  |
 matplotlib | 
 
 ### Details:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/TpLtS85HfqQ)
+[![Watch the video]](https://www.youtube.com/embed/TpLtS85HfqQ)
 
 
