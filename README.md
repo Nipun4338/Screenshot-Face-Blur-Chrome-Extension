@@ -6,6 +6,7 @@ Face detection train method is not so strong, so can't make very good assumption
 Download the repository. <br>
 
 ### Prerequisites
+--------- | ---------
 Flask  | matplotlib
 skimage  | 
 
