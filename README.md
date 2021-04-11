@@ -13,6 +13,8 @@ Flask  |
 skimage  | 
 matplotlib | 
 
-### Details
-https://www.youtube.com/watch?v=TpLtS85HfqQ
+Details:
+- title: What is GitHub?
+  description: After watching this video, close the first issue in your repository.
+  video: https://www.youtube.com/embed/TpLtS85HfqQ
 
