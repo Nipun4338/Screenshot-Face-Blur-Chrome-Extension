@@ -1,0 +1,34 @@
+{
+	"manifest_version": 2,
+	"name": "Make Me Blur",
+	"version": "1.0",
+	"description": "Take screenshot of the entire web page and make faces blur",
+	"author": "nipun4338@gmail.com",
+	"icons": {
+		"16": "images/icon-16.png",
+		"48": "images/icon-48.png",
+		"128": "images/icon-128.png"
+	},
+	"background": {
+		"scripts": [
+			"javascripts/background.js"
+		]
+	},
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"js": ["javascripts/content-script.js"]
+		}
+	],
+	"permissions": ["http://localhost/*",
+        "activeTab",
+		"tabs",
+		"storage"
+	],
+	"browser_action": {
+		"default_icon": {
+			"19": "images/icon-19.png",
+			"38": "images/icon-38.png"
+		}
+	}
+}
