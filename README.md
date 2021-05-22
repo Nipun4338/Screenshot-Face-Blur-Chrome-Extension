@@ -10,10 +10,10 @@ Download the repository. <br>
 Python Packages | Others
 ----------------- | -----------------
 Flask  | 
-skimage  | 
-matplotlib | 
+Skimage  | 
+Matplotlib | 
 
 ### Details:
-[Video](https://www.youtube.com/embed/TpLtS85HfqQ)
+[![For Details](https://img.youtube.com/vi/TpLtS85HfqQ/hqdefault.jpg)](https://youtu.be/TpLtS85HfqQ)
 
 
